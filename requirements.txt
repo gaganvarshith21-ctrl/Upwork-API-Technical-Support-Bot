@@ -1,8 +1,9 @@
-streamlit
-langchain
-langchain-community
-chromadb
+langchain==0.2.16
+langchain-community==0.2.16
+chromadb==0.4.24
+protobuf==3.20.3
 sentence-transformers
+streamlit
 openai
 python-dotenv
 PyPDF2
