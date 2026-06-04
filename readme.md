@@ -1,4 +1,4 @@
-#Upwork API — Technical Support Bot
+# Upwork API — Technical Support Bot
 
 A Retrieval-Augmented Generation (RAG) chatbot built to answer developer questions using the Upwork API documentation. The assistant retrieves relevant documentation sections from a local ChromaDB vector store and uses Meta-Llama-3.1-8B via DeepInfra to generate grounded, accurate responses — strictly from the docs, never from assumptions.
 
